@@ -1,2 +1,1 @@
-
-Provides facility to manage windows service online using ASP.NET MVC, Signal-R, KnockoutJS, WCF with Dual HTTP binding.
+Provides facility to manage windows service online using ASP.NET MVC, Signal-R, KnockoutJS, WCF with Dual HTTP binding. Lists windows services status real time ie.. any changes of the service state is notified to clients. 
